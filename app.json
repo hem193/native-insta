@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "instagram-react-native",
+    "slug": "instagram-react-native",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
